@@ -16,6 +16,7 @@ version: 1
 
 [[NSAID]]
  - [[Ibuprofen]]
+ -  [[Ketorolac]]
 ## Step 2 - Opioids for Mild-moderate Pain
 
 ## Step 3 - Opioids for Moderate-Severe Pain
