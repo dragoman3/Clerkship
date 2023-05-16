@@ -18,7 +18,7 @@ Mediates pain, fever, inflammation
 ## Examples
 [[Ibuprofen]]
 [[Ketorolac]]
-## Complications
+## NSAID Complications
 Generally, the complications are a result of inhibiting COX-1
 - Dyspepsia, GIT ulceration
 - Platelet dysfunction
