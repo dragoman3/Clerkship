@@ -16,7 +16,7 @@ tags: pocketcard
 6. Status of dentition
 7. NPO status
 ## Mallampati Score [^3]
-![Screen Shot 2023-03-21 at 9.33.50 PM.png](Screen%20Shot%202023-03-21%20at%209.33.50%20PM.png)
+![Screen Shot 2023-03-21 at 9.33.50 PM.png](Asset/Screen%20Shot%202023-03-21%20at%209.33.50%20PM.png)
 
 
 ## Predictors of Difficult Bag Mask Ventilation [^1]
