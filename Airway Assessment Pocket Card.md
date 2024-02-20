@@ -17,7 +17,7 @@ tags: pocketcard
 7. NPO status
 ## Mallampati Score [^3]
 ![/assets/img/Screen Shot 2023-03-21 at 9.33.50 PM.png](/assets/img/Screen%20Shot%202023-03-21%20at%209.33.50%20PM.png)
-![assets/img/Screen Shot 2024-02-19 at 5.46.28 PM.png](assets/img/Screen%20Shot%202024-02-19%20at%205.46.28%20PM.png)
+
 
 ## Predictors of Difficult Bag Mask Ventilation [^1]
 1. Beard
