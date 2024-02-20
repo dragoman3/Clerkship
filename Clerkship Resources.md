@@ -18,5 +18,5 @@ The following topics are taken from the Anesthesia Clerkship Core Documents. The
 ### Pain Management
 [[Pain Management]]
 ### Pre-operative Evaluation
-[[../assets/img/Airway Assessment Pocket Card]]
+[[Airway Assessment Pocket Card]]
 ### Post-operative Management
