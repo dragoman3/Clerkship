@@ -26,7 +26,7 @@ date:  17-10-2022
  - use of volatile anesthetics / nitrous oxide
 
 # Prevention of PONV
-## 5-HT$$_3$$ Antagonists
+## 5-HT<sub>3</sub> Antagonists
 [[Ondansetron]]
 
 ## NK1 Receptor Antagonists
