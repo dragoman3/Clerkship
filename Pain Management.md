@@ -11,6 +11,14 @@ version: 1
 1. Multimodal Analgesia - use of different classes of drugs to optimize analgesia while minimizing individual drug side-effects
 
 # WHO Pain Ladder
+```mermaid
+graph TB
+A[Non-opioids +/- Adjuvants];
+B[Opioids for Mild-moderate Pain];
+C[Opioids for Moderate-Severe Pain];
+A-->B
+B-->C
+```
 ## Step 1 - Non-opioids +/- Adjuvants
 [[Acetaminophen]]
 
