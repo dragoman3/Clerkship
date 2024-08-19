@@ -2,9 +2,10 @@
 title: Post-operative Nausea and Vomiting
 notetype: feed
 category: clerk
-tags: clerkship 
-date:  17-10-2022
-author: Dragoman
+tags:
+  - clerkship
+date: 17-10-2022
+author: Dragoman, Cooper
 ---
 
 # General Principles
