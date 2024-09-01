@@ -6,6 +6,7 @@ category: clerk
 tags:
   - clerkship
 date: 17-10-2022
+mermaid:true
 ---
 
 # General Principles
