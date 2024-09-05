@@ -53,6 +53,38 @@ gitGraph
 ```
 
 
+```mermaid
+classDiagram
+   class Airway {
+     +Obstruction
+     +Secretions
+     +Tongue Position
+   }
+   
+   class Breathing {
+     +Oxygen Saturation
+     +Respiratory Rate
+     +Auscultation
+   }
+   
+   class Circulation {
+     +Heart Rate
+     +Blood Pressure
+     +Capillary Refill
+   }
+   
+   class Disability {
+     +Glasgow Coma Scale
+     +Pupil Response
+     +Motor Function
+   }
+Airway --> Breathing 
+Breathing --> Circulation
+Circulation --> Disability
+```
+
+
+
 [^1]:
 [^2]:
 [^3]:
