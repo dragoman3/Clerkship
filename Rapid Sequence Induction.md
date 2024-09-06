@@ -2,6 +2,7 @@
 title: Rapid Sequence Induction
 feed: show
 notetype: feed
+category: clerk
 date: 21-12-2023
 tags:
   - pocketcard

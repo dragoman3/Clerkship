@@ -3,6 +3,7 @@ title: Fasting Requirements
 feed: show
 notetype: feed
 date: 21-12-2023
+category: clerk
 tags:
   - pocketcard
   - card

@@ -1,7 +1,7 @@
 ---
 title: Extubation Criteria
 feed: show
-category: clerkship
+category: clerk
 date: 05-09-2024
 tags: clerkship
 version: 1
