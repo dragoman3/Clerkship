@@ -3,8 +3,7 @@ title: Extubation Criteria
 feed: show
 category: clerkship
 date: 05-09-2024
-tags:
-  - clerkship
+tags: clerkship
 version: 1
 mermaid: true
 author: Dragoman
