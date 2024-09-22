@@ -7,11 +7,14 @@ date:  16-05-2023
 tags: clerkship 
 ---
 
-# Oropharyngeal Airway
+# Bag Mask Ventilation
+
+## BMV Adjuncts
+### Oropharyngeal Airway
 Useful for maintaining airway patency
 Sizing: corner of mouth to angle of mandible
 Contraindications: beware in pediatrics (due to incompletely formed hard palate)
-# Nasopharyngeal Airway
+### Nasopharyngeal Airway
 Also known as a nasal trumpet
 Used to maintain airway patency
 Sizing: tip of nose to earlobe
